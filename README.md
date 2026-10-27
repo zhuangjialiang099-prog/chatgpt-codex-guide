@@ -94,6 +94,12 @@ Codex 的登录方式影响计费和权限：用 ChatGPT 登录，使用适用�
 
 来源：[官方 Models](https://learn.chatgpt.com/docs/models)。
 
+**GPT-6.1 Terra 怎么选：** 可先用于基于现有材料的简洁写作、图片与屏幕理解、目标明确的应用操作，以及范围清楚的代码修复；复杂项目仍可考虑 GPT-6.1 Sol。用相同材料和推理档位比较结果，并检查准确性、成品和返工情况，不预设固定节省比例。[官方选型说明](https://learn.chatgpt.com/docs/model-selection)
+
+**入口与开放边界：** Terra 面向 Plus、Pro、Business、Enterprise、Edu 的 Work 与 Codex；不在普通 Chat 中提供。桌面应用与 Work 网页可在 Advanced 模型列表选择，Work 移动端也支持。CLI 需要 0.159.0 或更新版本，可用 `codex -m gpt-6.1-terra` 启动，或在交互会话输入 `/model`。实际可用性仍须核对账号、客户端和工作区；Enterprise 还受管理员控制，Terra 不支持 UAE 推理驻留。选择模型不会授予额外访问权限。[官方入口与范围](https://learn.chatgpt.com/docs/whats-new/october-26-30-2026)、[CLI 与模型选择](https://learn.chatgpt.com/docs/models)
+
+**总套餐额度不变：** Terra 的加入没有提高 Work／Codex 的总体套餐限额；模型选择会影响用量，不能据此认定套餐翻倍、所有任务都省一半，或获得一份独立额度。具体的 Terra／Sol 选择、用量口径与本人用量核对，可继续阅读维护者的 [ChatGPT／Codex 各套餐额度对照（已补 Terra）](https://www.gpt-duo.com/blog/codex-limits-by-plan)；该页含维护者商品信息，官方规则以 [Pricing](https://learn.chatgpt.com/docs/pricing) 为准。
+
 速度模式也影响用量：当前支持模型的 Fast 对套餐内用量按 Standard 的 2.5 倍计算，对购买 credits 按 2 倍计算；Ultrafast 的对应倍率为 8 倍和 6 倍。它们是用量或费率倍率，不是任务完成时间的保证。
 
 个人 Pro 档中，当前 Pro $500 提供 Ultrafast；符合条件的 Enterprise／Edu 也可使用。购买 credits 不会让其他自助套餐获得该模式。API key 登录使用 API 计价，不能套用 ChatGPT credits 倍率。
@@ -138,6 +144,7 @@ Codex 的登录方式影响计费和权限：用 ChatGPT 登录，使用适用�
 
 | 资料核实日期 | 本次整理内容 |
 | --- | --- |
+| 2026-10-27 | 第 5 节补充 GPT-6.1 Terra 的定位、适用入口与开放边界，说明 Work／Codex 总套餐额度不变，并链接已补 Terra 的中文额度对照页。本次仅核实 Terra 增补资料，既有核实日期和重置记录保留。 |
 | 2026-10-26 | 补入 Day 21 当日重置公告；尚未建立官方完成或预计落地链路，不推定适用套餐、窗口、类型或个人到账。 |
 | 2026-10-25 | 新增 Codex 重置专题，核对 Day 20 传播完成链路，并补入 22、23 日 Day 17／18 公告与预计回复；两次预告的完成链路未建立，不扩大为全部账号到账。 |
 | 2026-10-20 | 首版核对个人套餐、登录计费、用量概览、模型与速度规则，并整理限额后的选择方法。 |
