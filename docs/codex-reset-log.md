@@ -1,6 +1,12 @@
 # Codex 重置记录：北京时间与完成状态
 
-**本页最新原帖核验：2026-11-01；Day 20 与 21—24 日历史补查核验：2026-10-25。** 本页由 GPT-Duo（AI DUO）维护，不是 OpenAI 官方文档；维护者同时经营 AI 订阅服务。帖文发布时间不等于个人账号到账时间。
+**本页最新原帖核验：2026-11-02；Day 20 与 21—24 日历史补查核验：2026-10-25。** 本页由 GPT-Duo（AI DUO）维护，不是 OpenAI 官方文档；维护者同时经营 AI 订阅服务。帖文发布时间不等于个人账号到账时间。
+
+## 11 月 2 日：重置卡动态（Day 28，Banked 2/2）
+
+**Tibo 发布“Day 28/ Banked 2/2”重置卡消息。** 北京时间 11 月 2 日 07:27:20，Tibo（@thsottiaux）在 [Day 28 英文原帖](https://x.com/thsottiaux/status/2117035794678546764)中写明“Day 28/ Banked 2/2”。本页保留这条新的发卡进展表述，以及下方 11 月 1 日的“Banked 1/2”记录。
+
+“2/2”按原文保留。短帖没有列明具体套餐、地区、发放对象、覆盖窗口、每人数量或有效期；不能据此保证全部账号均已到账或每人收到两张卡。banked reset 可留待使用，**收到卡不会自动刷新用量，使用后才恢复它覆盖的额度。** 请在本人桌面端 Settings → Usage & billing 的 Available 和 History 核对可用卡、到期时间及“Reset received／Reset used”。[官方重置规则与查询入口](https://help.openai.com/en/articles/20001498-how-resets-work-in-codex)
 
 ## 11 月 1 日：重置卡发放动态（Banked 1/2）
 
