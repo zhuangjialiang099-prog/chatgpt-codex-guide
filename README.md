@@ -15,6 +15,7 @@
 | [Codex 用量上限排查](docs/codex-usage-limit.md) | 核对账号、限制、恢复时间与异常提示。 |
 | [ChatGPT Go／Plus 怎么选](docs/chatgpt-go-vs-plus.md) | 按实际任务、功能入口和用量需求比较。 |
 | [ChatGPT Images 2.6：GIF 与 GPT-Image-2.6 指南](docs/chatgpt-images-2-6.md) | 区分 Images 产品功能、Flare／Sunburst API 模型、GIF 用法与计费。资料核对：2026-11-06。 |
+| [GPT-6 Cyber 与 Daybreak Red](docs/gpt-6-cyber-daybreak-red.md) | 说明网络安全用途、Daybreak Red 准入和 API 访问边界；不是 GPT-6.2 Astra 传闻稿。资料核对：2026-11-06。 |
 
 ## 先用一分钟判断
 
