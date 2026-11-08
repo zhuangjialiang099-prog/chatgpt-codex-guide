@@ -1,4 +1,4 @@
-测试# Claude Max 5x免KYC独享成品号使用教程
+# Claude Max 5x免KYC独享成品号使用教程
 
 先检查电脑里是否留有旧的中转 API 配置，再确认网络可访问 Claude，使用官方安装器装好 Claude Code，最后在系统终端发起授权。已经安装的人可先运行 `claude --version` 检查版本，再按需要进入对应步骤。
 
